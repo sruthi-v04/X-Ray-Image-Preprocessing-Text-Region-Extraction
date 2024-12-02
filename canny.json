@@ -1,0 +1,86 @@
+[
+   {
+      "filename": "05-07-2022_1-XRayTest.png",
+      "frame_id": 1,
+      "object": [
+         {
+            "class_id": "O",
+            "confidence": 0.3154107630252838,
+            "name": "name",
+            "relative_coordinate": {
+               "center_x": 0.5952737560326178,
+               "center_y": 0.09812206572769953,
+               "width": 0.11349642203361625,
+               "height": 0.09953051643192488
+            }
+         },
+         {
+            "class_id": "DE313G SMAN",
+            "confidence": 0.931262195110321,
+            "name": "name",
+            "relative_coordinate": {
+               "center_x": 0.43701114994175405,
+               "center_y": 0.6549295774647887,
+               "width": 0.24430021634215343,
+               "height": 0.09671361502347418
+            }
+         },
+         {
+            "class_id": "DINeSEE",
+            "confidence": 0.6478238701820374,
+            "name": "name",
+            "relative_coordinate": {
+               "center_x": 0.5937760026626726,
+               "center_y": 0.7453051643192489,
+               "width": 0.12581128307538691,
+               "height": 0.09061032863849765
+            }
+         }
+      ]
+   },
+   {
+      "filename": "05-07-2022_2-XRay.png",
+      "frame_id": 2,
+      "object": [
+         {
+            "class_id": "DE313G SMAUIMeSEE",
+            "confidence": 0.7994932532310486,
+            "name": "name",
+            "relative_coordinate": {
+               "center_x": 0.7016520894071915,
+               "center_y": 0.5112669003505258,
+               "width": 0.08746355685131195,
+               "height": 0.3615423134702053
+            }
+         }
+      ]
+   },
+   {
+      "filename": "05-07-2022_6-XRayTest.png",
+      "frame_id": 3,
+      "object": [
+         {
+            "class_id": "DIMeSEE",
+            "confidence": 0.8502411246299744,
+            "name": "name",
+            "relative_coordinate": {
+               "center_x": 0.7909349786426199,
+               "center_y": 0.291082269206615,
+               "width": 0.15045087802562884,
+               "height": 0.1676784592840695
+            }
+         },
+         {
+            "class_id": "DE312G SMAW",
+            "confidence": 0.9551193118095398,
+            "name": "name",
+            "relative_coordinate": {
+               "center_x": 0.7489321309919317,
+               "center_y": 0.5484613774335357,
+               "width": 0.13858566682486947,
+               "height": 0.31609796943688506
+            }
+         }
+      ]
+   }
+]
