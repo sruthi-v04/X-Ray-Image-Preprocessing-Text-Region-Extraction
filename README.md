@@ -12,13 +12,7 @@ This work is tied to my learning and application of edge detection and threshold
 - **Text Region Extraction**: Detects and isolates text regions, rotating them if necessary for OCR compatibility.
 - **Combining Canny and Thresholding**: Uses Canny for edge detection and Otsu's thresholding to ensure optimal text visibility for OCR.
 
-## Background (Weeks 1-4)
-During my internship, I focused on improving OCR accuracy through preprocessing methods such as:
-- **Edge Detection with Canny**: I explored the use of the Canny algorithm for edge detection, which highlights the boundaries of text in images, making it easier for OCR systems to extract text.
-- **Thresholding Techniques**: I studied Otsu’s thresholding and applied it to preprocess images, balancing between the foreground and background to make text stand out more clearly in the images.
-- **Linking to OCR Workflows**: I combined these preprocessing methods with OCR pipelines and deskewing techniques to improve the accuracy and reliability of text extraction from X-Ray images.
 
-## Workflow
 1. **Preprocessing**: Resize, normalize, and denoise images.
 2. **Edge Detection**: Apply the Canny edge detection algorithm to enhance image features.
 3. **Thresholding**: Use Otsu’s method to convert images into a binary format for better contrast between text and background.
